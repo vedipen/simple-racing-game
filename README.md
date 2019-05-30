@@ -3,7 +3,7 @@ A simple racing game made for cross platform desktops using Pygame.
 
 To run, type the following on your terminal (command prompt) -
 
-	python dipen.py
+	python run.py
 
 Dependencies -
 * Python
