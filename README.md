@@ -1,10 +1,10 @@
 # Simple Racing Game
-A simple racing game made for cross platform desktops using pygame.   
-To run-  
-> python dipen.py  
+A simple racing game made for cross platform desktops using Pygame.
 
-Dependencies-  
-* Python 3.4
-* PyGame
+To run, type the following on your terminal (command prompt) -
 
+	python dipen.py
 
+Dependencies -
+* Python
+* [PyGame](https://www.pygame.org/news)
